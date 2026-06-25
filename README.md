@@ -1,15 +1,197 @@
-# 💫 About Me:
-Hello, I'm Kartik Kamatagi, a BCA graduate and Java Full Stack Developer. I have knowledge of Java, Spring Boot, React.js, HTML, CSS, JavaScript, MySQL, and Git. I am passionate about building web applications, learning new technologies, and improving my problem-solving skills. This repository contains my projects, practice programs, and learning materials developed during my software development journey.
+<h1 align="center">Hi 👋, I'm Kartik Kamatagi</h1>
 
+<h3 align="center">
+Java Full Stack Developer | BCA Graduate | React Developer
+</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k4rtik_rk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikkamatagi2004@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Open+Source+Learner;Always+Learning+New+Technologies" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=KartikKamatagi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 BCA Graduate
+
+💻 Java Full Stack Developer
+
+🌱 Currently learning **Advanced Spring Boot, AWS & DSA**
+
+🚀 Passionate about building scalable web applications.
+
+📚 Love solving coding problems and learning new technologies.
+
+🎯 Goal: Become a Software Engineer in a Product-Based Company.
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🍔 Food Order System
+
+✔ React JS
+
+✔ REST API
+
+✔ Routing
+
+✔ Responsive UI
+
+✔ Shopping Cart
+
+---
+
+## 👨‍💼 Employee Management System
+
+✔ CRUD Operations
+
+✔ React
+
+✔ JSON Server
+
+✔ Routing
+
+---
+
+## 🚗 Car Booking System
+
+✔ Responsive UI
+
+✔ React Components
+
+✔ Modern Design
+
+---
+
+## 🎬 Movie Ticket Booking System
+
+✔ Java
+
+✔ MySQL
+
+✔ JDBC
+
+---
+
+## 🌍 Tourism Management System
+
+✔ Java
+
+✔ Spring Boot
+
+✔ MySQL
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikKamatagi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKamatagi&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKamatagi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KartikKamatagi&theme=onedark&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikKamatagi&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/k4rtik_rk">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:kartikkamatagi2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/KartikKamatagi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> "Code. Learn. Build. Repeat."
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KartikKamatagi&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
