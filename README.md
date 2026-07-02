@@ -75,7 +75,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 ✔ Responsive UI
 
-✔ Shopping Cart
+✔ Shopping Cart.
 
 ---
 
