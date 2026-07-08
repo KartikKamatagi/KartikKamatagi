@@ -121,31 +121,10 @@ Java Full Stack Developer. | BCA Graduate | React Developer
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikKamatagi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKamatagi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKamatagi&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartikKamatagi&theme=onedark&margin-w=15"/>
-
-</p>
 
 ---
 
