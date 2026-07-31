@@ -20,7 +20,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 💻 Java Full Stack Developer
 
-🌱 Currently learning **Advanced Spring Boot, AWS & DSA**
+🌱 Currently learning **Advanced Spring Boot, AWS & DSA**.
 
 🚀 Passionate about building scalable web applications.
 
