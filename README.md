@@ -116,7 +116,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 ## 🌍 Tourism Management System
 
-✔ Python
+✔ Python.
 
 ✔ Django
 
