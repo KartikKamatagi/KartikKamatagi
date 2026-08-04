@@ -76,7 +76,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 ✔ Routing
 
-✔ Responsive UI
+✔ Responsive UI 
 
 ✔ Shopping Cart.
 
